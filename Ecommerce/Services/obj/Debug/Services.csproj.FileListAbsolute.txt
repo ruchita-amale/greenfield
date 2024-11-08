@@ -1,0 +1,13 @@
+D:\Ecommerce\Services\bin\Debug\Services.dll
+D:\Ecommerce\Services\bin\Debug\Services.pdb
+D:\Ecommerce\Services\bin\Debug\POCOLib.dll
+D:\Ecommerce\Services\bin\Debug\Specification.dll
+D:\Ecommerce\Services\bin\Debug\POCOLib.pdb
+D:\Ecommerce\Services\bin\Debug\Specification.pdb
+D:\Ecommerce\Services\obj\Debug\Services.csproj.AssemblyReference.cache
+D:\Ecommerce\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+D:\Ecommerce\Services\obj\Debug\Services.csproj.Up2Date
+D:\Ecommerce\Services\obj\Debug\Services.dll
+D:\Ecommerce\Services\obj\Debug\Services.pdb
+D:\Ecommerce\Services\bin\Debug\BinaryDataRepositoryLib.dll
+D:\Ecommerce\Services\bin\Debug\BinaryDataRepositoryLib.pdb

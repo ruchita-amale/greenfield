@@ -1,0 +1,29 @@
+﻿
+@using POCO;
+@{
+    ViewBag.Title = "Index";
+}
+<h2>Index</h2>
+
+
+<main>
+    <section class="row" aria-labelledby="aspnetTitle">
+        @{
+            string company = "Products for Sale";
+        }
+        <h1 id="title">@company</h1>
+        <p class="lead">Online Shopping Portal</p>
+        <p><a href="https://asp.net" class="btn btn-primary btn-md">Learn more &raquo;</a></p>
+    </section>
+
+    <div class="row">
+        @{
+
+            foreach (Product p in @Model)
+            {
+                <img src="@p.Image  height="25" />
+                <p>@p.Name @p.Description</p>
+            }
+        }
+    </div>
+</main>

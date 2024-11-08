@@ -1,0 +1,11 @@
+D:\Ecommerce\BinaryDataRepositoryLib\bin\Debug\BinaryDataRepositoryLib.dll
+D:\Ecommerce\BinaryDataRepositoryLib\bin\Debug\BinaryDataRepositoryLib.pdb
+D:\Ecommerce\BinaryDataRepositoryLib\bin\Debug\POCOLib.dll
+D:\Ecommerce\BinaryDataRepositoryLib\bin\Debug\Specification.dll
+D:\Ecommerce\BinaryDataRepositoryLib\bin\Debug\POCOLib.pdb
+D:\Ecommerce\BinaryDataRepositoryLib\bin\Debug\Specification.pdb
+D:\Ecommerce\BinaryDataRepositoryLib\obj\Debug\BinaryDataRepositoryLib.csproj.AssemblyReference.cache
+D:\Ecommerce\BinaryDataRepositoryLib\obj\Debug\BinaryDataRepositoryLib.csproj.CoreCompileInputs.cache
+D:\Ecommerce\BinaryDataRepositoryLib\obj\Debug\BinaryDa.66CF657C.Up2Date
+D:\Ecommerce\BinaryDataRepositoryLib\obj\Debug\BinaryDataRepositoryLib.dll
+D:\Ecommerce\BinaryDataRepositoryLib\obj\Debug\BinaryDataRepositoryLib.pdb

@@ -1,0 +1,6 @@
+D:\Ecommerce\POCOLib\bin\Debug\POCOLib.dll
+D:\Ecommerce\POCOLib\bin\Debug\POCOLib.pdb
+D:\Ecommerce\POCOLib\obj\Debug\POCOLib.csproj.AssemblyReference.cache
+D:\Ecommerce\POCOLib\obj\Debug\POCOLib.csproj.CoreCompileInputs.cache
+D:\Ecommerce\POCOLib\obj\Debug\POCOLib.dll
+D:\Ecommerce\POCOLib\obj\Debug\POCOLib.pdb

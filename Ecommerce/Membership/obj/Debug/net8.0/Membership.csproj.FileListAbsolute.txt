@@ -1,0 +1,11 @@
+D:\Ecommerce\Membership\bin\Debug\net8.0\Membership.deps.json
+D:\Ecommerce\Membership\bin\Debug\net8.0\Membership.dll
+D:\Ecommerce\Membership\bin\Debug\net8.0\Membership.pdb
+D:\Ecommerce\Membership\obj\Debug\net8.0\Membership.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ecommerce\Membership\obj\Debug\net8.0\Membership.AssemblyInfoInputs.cache
+D:\Ecommerce\Membership\obj\Debug\net8.0\Membership.AssemblyInfo.cs
+D:\Ecommerce\Membership\obj\Debug\net8.0\Membership.csproj.CoreCompileInputs.cache
+D:\Ecommerce\Membership\obj\Debug\net8.0\Membership.dll
+D:\Ecommerce\Membership\obj\Debug\net8.0\refint\Membership.dll
+D:\Ecommerce\Membership\obj\Debug\net8.0\Membership.pdb
+D:\Ecommerce\Membership\obj\Debug\net8.0\ref\Membership.dll

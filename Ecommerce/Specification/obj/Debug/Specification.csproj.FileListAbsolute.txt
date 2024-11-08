@@ -1,0 +1,9 @@
+D:\Ecommerce\Specification\bin\Debug\Specification.dll
+D:\Ecommerce\Specification\bin\Debug\Specification.pdb
+D:\Ecommerce\Specification\bin\Debug\POCOLib.dll
+D:\Ecommerce\Specification\bin\Debug\POCOLib.pdb
+D:\Ecommerce\Specification\obj\Debug\Specification.csproj.AssemblyReference.cache
+D:\Ecommerce\Specification\obj\Debug\Specification.csproj.CoreCompileInputs.cache
+D:\Ecommerce\Specification\obj\Debug\Specific.3019C553.Up2Date
+D:\Ecommerce\Specification\obj\Debug\Specification.dll
+D:\Ecommerce\Specification\obj\Debug\Specification.pdb

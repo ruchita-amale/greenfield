@@ -1,0 +1,15 @@
+C:\Users\ruchita.amale\source\repos\Ecommerce\Catalog\bin\Debug\Catalog.dll
+C:\Users\ruchita.amale\source\repos\Ecommerce\Catalog\bin\Debug\Catalog.pdb
+C:\Users\ruchita.amale\source\repos\Ecommerce\Catalog\obj\Debug\Catalog.csproj.AssemblyReference.cache
+C:\Users\ruchita.amale\source\repos\Ecommerce\Catalog\obj\Debug\Catalog.csproj.CoreCompileInputs.cache
+C:\Users\ruchita.amale\source\repos\Ecommerce\Catalog\obj\Debug\Catalog.dll
+C:\Users\ruchita.amale\source\repos\Ecommerce\Catalog\obj\Debug\Catalog.pdb
+D:\Ecommerce\Catalog\bin\Debug\Catalog.dll
+D:\Ecommerce\Catalog\bin\Debug\Catalog.pdb
+D:\Ecommerce\Catalog\bin\Debug\POCOLib.dll
+D:\Ecommerce\Catalog\bin\Debug\POCOLib.pdb
+D:\Ecommerce\Catalog\obj\Debug\Catalog.csproj.AssemblyReference.cache
+D:\Ecommerce\Catalog\obj\Debug\Catalog.csproj.CoreCompileInputs.cache
+D:\Ecommerce\Catalog\obj\Debug\Catalog.csproj.Up2Date
+D:\Ecommerce\Catalog\obj\Debug\Catalog.dll
+D:\Ecommerce\Catalog\obj\Debug\Catalog.pdb

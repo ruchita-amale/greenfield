@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\greenfield\\Ecommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD2D33C-5BD2-4CF4-9BB7-04B34BBEB77B}|ECommerceTest\\ECommerceTest.csproj|d:\\greenfield\\ecommerce\\ecommercetest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FD2D33C-5BD2-4CF4-9BB7-04B34BBEB77B}|ECommerceTest\\ECommerceTest.csproj|solutionrelative:ecommercetest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CC5570-60A9-479D-8EFE-4EFB1AE09236}|Membership\\Membership.csproj|d:\\greenfield\\ecommerce\\membership\\credential.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8CC5570-60A9-479D-8EFE-4EFB1AE09236}|Membership\\Membership.csproj|solutionrelative:membership\\credential.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39619CB-2C6B-4A86-9053-FF0B8650E473}|Services\\Services.csproj|D:\\greenfield\\Ecommerce\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39619CB-2C6B-4A86-9053-FF0B8650E473}|Services\\Services.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC651CA-4135-457A-A98C-227677620C77}|Specification\\Specification.csproj|D:\\greenfield\\Ecommerce\\specification\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC651CA-4135-457A-A98C-227677620C77}|Specification\\Specification.csproj|solutionrelative:specification\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3896AF-9CDB-4317-92E1-3319EE101AA7}|ECommerceWeb\\ECommerceWeb.csproj|D:\\greenfield\\Ecommerce\\ecommerceweb\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3896AF-9CDB-4317-92E1-3319EE101AA7}|ECommerceWeb\\ECommerceWeb.csproj|solutionrelative:ecommerceweb\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3896AF-9CDB-4317-92E1-3319EE101AA7}|ECommerceWeb\\ECommerceWeb.csproj|D:\\greenfield\\Ecommerce\\ecommerceweb\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D3896AF-9CDB-4317-92E1-3319EE101AA7}|ECommerceWeb\\ECommerceWeb.csproj|solutionrelative:ecommerceweb\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE35C6FD-F24C-4D91-AD1B-4FD03E38D455}|BinaryDataRepositoryLib\\BinaryDataRepositoryLib.csproj|D:\\greenfield\\Ecommerce\\binarydatarepositorylib\\binaryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE35C6FD-F24C-4D91-AD1B-4FD03E38D455}|BinaryDataRepositoryLib\\BinaryDataRepositoryLib.csproj|solutionrelative:binarydatarepositorylib\\binaryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3896AF-9CDB-4317-92E1-3319EE101AA7}|ECommerceWeb\\ECommerceWeb.csproj|D:\\greenfield\\Ecommerce\\ecommerceweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3896AF-9CDB-4317-92E1-3319EE101AA7}|ECommerceWeb\\ECommerceWeb.csproj|solutionrelative:ecommerceweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97AFCC62-7F94-466E-A2E0-A2C5BD7F7A7F}|SerializationTest\\SerializationTest.csproj|D:\\greenfield\\Ecommerce\\serializationtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97AFCC62-7F94-466E-A2E0-A2C5BD7F7A7F}|SerializationTest\\SerializationTest.csproj|solutionrelative:serializationtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3DEEEA-0E79-46D7-AAE2-CCF58C61FE75}|POCOLib\\POCOLib.csproj|D:\\greenfield\\Ecommerce\\pocolib\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B3DEEEA-0E79-46D7-AAE2-CCF58C61FE75}|POCOLib\\POCOLib.csproj|solutionrelative:pocolib\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC651CA-4135-457A-A98C-227677620C77}|Specification\\Specification.csproj|D:\\greenfield\\Ecommerce\\specification\\idatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC651CA-4135-457A-A98C-227677620C77}|Specification\\Specification.csproj|solutionrelative:specification\\idatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{026DED1C-6435-4CD5-910B-43788F2BD621}|Catalog\\Catalog.csproj|D:\\greenfield\\Ecommerce\\catalog\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{026DED1C-6435-4CD5-910B-43788F2BD621}|Catalog\\Catalog.csproj|solutionrelative:catalog\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{026DED1C-6435-4CD5-910B-43788F2BD621}|Catalog\\Catalog.csproj|D:\\greenfield\\Ecommerce\\catalog\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{026DED1C-6435-4CD5-910B-43788F2BD621}|Catalog\\Catalog.csproj|solutionrelative:catalog\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Credential.cs",
+              "DocumentMoniker": "D:\\greenfield\\Ecommerce\\Membership\\Credential.cs",
+              "RelativeDocumentMoniker": "Membership\\Credential.cs",
+              "ToolTip": "D:\\greenfield\\Ecommerce\\Membership\\Credential.cs",
+              "RelativeToolTip": "Membership\\Credential.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T11:34:05.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\greenfield\\Ecommerce\\ECommerceWeb\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ECommerceWeb\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\greenfield\\Ecommerce\\ECommerceWeb\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ECommerceWeb\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAYAAAAAODMzMzPbvxAAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T06:45:49.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\greenfield\\Ecommerce\\SerializationTest\\Program.cs",
+              "RelativeDocumentMoniker": "SerializationTest\\Program.cs",
+              "ToolTip": "D:\\greenfield\\Ecommerce\\SerializationTest\\Program.cs",
+              "RelativeToolTip": "SerializationTest\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:57:37.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\greenfield\\Ecommerce\\Specification\\IProductService.cs",
+              "RelativeDocumentMoniker": "Specification\\IProductService.cs",
+              "ToolTip": "D:\\greenfield\\Ecommerce\\Specification\\IProductService.cs",
+              "RelativeToolTip": "Specification\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:58:22.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\greenfield\\Ecommerce\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "D:\\greenfield\\Ecommerce\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AQIAADkAAADgMjMzM7MawEIAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:51:32.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BinaryRepository.cs",
+              "DocumentMoniker": "D:\\greenfield\\Ecommerce\\BinaryDataRepositoryLib\\BinaryRepository.cs",
+              "RelativeDocumentMoniker": "BinaryDataRepositoryLib\\BinaryRepository.cs",
+              "ToolTip": "D:\\greenfield\\Ecommerce\\BinaryDataRepositoryLib\\BinaryRepository.cs",
+              "RelativeToolTip": "BinaryDataRepositoryLib\\BinaryRepository.cs",
+              "ViewState": "AQIAAAcAAACAMzMzM7MpwB0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:32:02.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\greenfield\\Ecommerce\\POCOLib\\Product.cs",
+              "RelativeDocumentMoniker": "POCOLib\\Product.cs",
+              "ToolTip": "D:\\greenfield\\Ecommerce\\POCOLib\\Product.cs",
+              "RelativeToolTip": "POCOLib\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:27:53.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\greenfield\\Ecommerce\\ECommerceTest\\Program.cs",
+              "RelativeDocumentMoniker": "ECommerceTest\\Program.cs",
+              "ToolTip": "D:\\greenfield\\Ecommerce\\ECommerceTest\\Program.cs",
+              "RelativeToolTip": "ECommerceTest\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T10:23:14.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\greenfield\\Ecommerce\\ECommerceWeb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ECommerceWeb\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\greenfield\\Ecommerce\\ECommerceWeb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ECommerceWeb\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T11:08:35.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\greenfield\\Ecommerce\\ECommerceWeb\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "ECommerceWeb\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\greenfield\\Ecommerce\\ECommerceWeb\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "ECommerceWeb\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T11:24:53.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IDataRepository.cs",
+              "DocumentMoniker": "D:\\greenfield\\Ecommerce\\Specification\\IDataRepository.cs",
+              "RelativeDocumentMoniker": "Specification\\IDataRepository.cs",
+              "ToolTip": "D:\\greenfield\\Ecommerce\\Specification\\IDataRepository.cs",
+              "RelativeToolTip": "Specification\\IDataRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:21:33.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\greenfield\\Ecommerce\\Catalog\\IProductService.cs",
+              "RelativeDocumentMoniker": "Catalog\\IProductService.cs",
+              "ToolTip": "D:\\greenfield\\Ecommerce\\Catalog\\IProductService.cs",
+              "RelativeToolTip": "Catalog\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:19:50.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\greenfield\\Ecommerce\\Catalog\\ProductService.cs",
+              "RelativeDocumentMoniker": "Catalog\\ProductService.cs",
+              "ToolTip": "D:\\greenfield\\Ecommerce\\Catalog\\ProductService.cs",
+              "RelativeToolTip": "Catalog\\ProductService.cs",
+              "ViewState": "AQIAAA8AAACgZmZmZgYywCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T09:47:00.698Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

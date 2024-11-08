@@ -1,0 +1,11 @@
+D:\Ecommerce\ShoppingCart\bin\Debug\net8.0\ShoppingCart.deps.json
+D:\Ecommerce\ShoppingCart\bin\Debug\net8.0\ShoppingCart.dll
+D:\Ecommerce\ShoppingCart\bin\Debug\net8.0\ShoppingCart.pdb
+D:\Ecommerce\ShoppingCart\obj\Debug\net8.0\ShoppingCart.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ecommerce\ShoppingCart\obj\Debug\net8.0\ShoppingCart.AssemblyInfoInputs.cache
+D:\Ecommerce\ShoppingCart\obj\Debug\net8.0\ShoppingCart.AssemblyInfo.cs
+D:\Ecommerce\ShoppingCart\obj\Debug\net8.0\ShoppingCart.csproj.CoreCompileInputs.cache
+D:\Ecommerce\ShoppingCart\obj\Debug\net8.0\ShoppingCart.dll
+D:\Ecommerce\ShoppingCart\obj\Debug\net8.0\refint\ShoppingCart.dll
+D:\Ecommerce\ShoppingCart\obj\Debug\net8.0\ShoppingCart.pdb
+D:\Ecommerce\ShoppingCart\obj\Debug\net8.0\ref\ShoppingCart.dll

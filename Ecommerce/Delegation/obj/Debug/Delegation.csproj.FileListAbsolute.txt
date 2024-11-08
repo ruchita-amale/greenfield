@@ -1,0 +1,12 @@
+C:\Users\ruchita.amale\source\repos\Ecommerce\Delegation\bin\Debug\Delegation.dll
+C:\Users\ruchita.amale\source\repos\Ecommerce\Delegation\bin\Debug\Delegation.pdb
+C:\Users\ruchita.amale\source\repos\Ecommerce\Delegation\obj\Debug\Delegation.csproj.AssemblyReference.cache
+C:\Users\ruchita.amale\source\repos\Ecommerce\Delegation\obj\Debug\Delegation.csproj.CoreCompileInputs.cache
+C:\Users\ruchita.amale\source\repos\Ecommerce\Delegation\obj\Debug\Delegation.dll
+C:\Users\ruchita.amale\source\repos\Ecommerce\Delegation\obj\Debug\Delegation.pdb
+D:\Ecommerce\Delegation\bin\Debug\Delegation.dll
+D:\Ecommerce\Delegation\bin\Debug\Delegation.pdb
+D:\Ecommerce\Delegation\obj\Debug\Delegation.csproj.AssemblyReference.cache
+D:\Ecommerce\Delegation\obj\Debug\Delegation.csproj.CoreCompileInputs.cache
+D:\Ecommerce\Delegation\obj\Debug\Delegation.dll
+D:\Ecommerce\Delegation\obj\Debug\Delegation.pdb
